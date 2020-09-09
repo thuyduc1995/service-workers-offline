@@ -54,7 +54,6 @@ header h1::before {
 	top: 0px;
 	width: 63px;
 	height: 75px;
-	background: url(/images/logo.gif) 0px 0px/63px 75px no-repeat;
 }
 
 nav {
